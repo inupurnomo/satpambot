@@ -1,0 +1,2 @@
+# satpambot
+Satpam Bot Discord
